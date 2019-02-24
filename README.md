@@ -11,7 +11,7 @@ make
 ```
 make
 touch WatchMe.txt
-inotifyExample  WatchMe.txt
+iNotifyExample  WatchMe.txt
 echo "Hello" WatchMe.txt
 touch WatchMe.txt
 rm WatchMe.txt
