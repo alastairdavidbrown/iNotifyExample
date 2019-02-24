@@ -10,7 +10,7 @@ make
 ## examples
 ```
 make
-touch WartchMe.txt
+touch WatchMe.txt
 inotifyExample  WatchMe.txt
 echo "Hello" WatchMe.txt
 touch WatchMe.txt
