@@ -12,7 +12,7 @@ make
 make
 touch WatchMe.txt
 ./iNotifyExample  WatchMe.txt
-echo "Hello" WatchMe.txt
-touch WatchMe.txt
-rm WatchMe.txt
+echo "Hello" > WatchMe.txt 	# Event caught
+touch WatchMe.txt		# Event not caught
+rm WatchMe.txt			# Ecent caught
 ```
