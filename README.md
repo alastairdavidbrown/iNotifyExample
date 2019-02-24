@@ -1,5 +1,6 @@
 #iNotify Example
-Exmaple of the iNotify c API on the standard ubuntu dostrinution.  Shows registering a listener on three events.  
+
+Example of the iNotify c API in the standard ubuntu dostrinution.  Shows registering a listener on three events.  
 
 ##iDependencies
 c compiler, make 
